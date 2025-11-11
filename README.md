@@ -1,6 +1,5 @@
 # Python-Ecommerce-Website
 
-# Python  Ecommerce website
 
 Basic django eCommerce website with checkout guest checkout and paypal integration
 
